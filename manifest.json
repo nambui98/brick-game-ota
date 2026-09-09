@@ -1,0 +1,76 @@
+{
+  "version": "1.0.0",
+  "minShell": "1.0.0",
+  "files": [
+    {
+      "path": "index.html",
+      "sha256": "9255690427a63135c3e96ee6f2e607e661dcd599385f7d13a17bda43ffa2dc85",
+      "size": 30846
+    },
+    {
+      "path": "main.js",
+      "sha256": "34684a6089f37ee113e9e1b63bdd00bb64a2ab619bb65e3af4a5d41e942ad479",
+      "size": 133634
+    },
+    {
+      "path": "audio/clear.wav",
+      "sha256": "f6e96a18c75f29fabe84851fa0e44f51bc1feb189b4ab0bd5dc6ddd159b3b531",
+      "size": 4013
+    },
+    {
+      "path": "audio/crash.wav",
+      "sha256": "05170135ab689357658b2878676ce86ab88ac835395edbc65d1a7e17778e0227",
+      "size": 4454
+    },
+    {
+      "path": "audio/eat.wav",
+      "sha256": "135669424d7f4fe689d43d08a5396926f39e4881f4480db3299ffbaf5690b28d",
+      "size": 1147
+    },
+    {
+      "path": "audio/gameOver.wav",
+      "sha256": "6b2fe49e5f59819af74bc38d75bcbebecb683614211a2a341a5daec265621585",
+      "size": 5336
+    },
+    {
+      "path": "audio/hit.wav",
+      "sha256": "cf4c7fe052acecea93c00f3af569700c4a14c9957618a86330a95fe901f34b7d",
+      "size": 3353
+    },
+    {
+      "path": "audio/land.wav",
+      "sha256": "7785c8361d5486ab09e2c5efdf1156517be5baff9cbc0f63bd44d2e530ef2927",
+      "size": 1367
+    },
+    {
+      "path": "audio/move.wav",
+      "sha256": "253509b4b873981263c58544e4dd65b39bd3f1a719d8fb23aa440b5bf305014e",
+      "size": 706
+    },
+    {
+      "path": "audio/power.wav",
+      "sha256": "03632669c6463e3c1289ed05b30ad66458368b33f40efde5d7f28d86adab8e66",
+      "size": 3572
+    },
+    {
+      "path": "audio/rotate.wav",
+      "sha256": "d720d2da1fd1c79c0b5ae2e78c115f8fff60a51c5b658e00a8130d124a0c9fc3",
+      "size": 926
+    },
+    {
+      "path": "audio/select.wav",
+      "sha256": "864c272558f5ff70b492276c9d9d076e7b051d38f29248189dea7a3783c3a61e",
+      "size": 706
+    },
+    {
+      "path": "audio/shoot.wav",
+      "sha256": "d89ecd5797252ff27b83ac9371a57284254247ed94b5dfca5646433e8eb2d770",
+      "size": 926
+    },
+    {
+      "path": "audio/start.wav",
+      "sha256": "66040e1a1e3bbb54896c36ae771baa23e8452c61fab33f5c3c4e44a40bae400e",
+      "size": 4013
+    }
+  ]
+}

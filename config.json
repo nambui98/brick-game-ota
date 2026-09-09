@@ -1,0 +1,12 @@
+{
+    "ads": {
+        "interstitialEvery": 3,
+        "minIntervalMs": 180000,
+        "rewardedContinue": true,
+        "minRunMs": 45000,
+        "minRunScore": 0,
+        "firstSessionGraceMs": 600000
+    },
+    "features": {},
+    "updatedAt": "2026-09-08T00:00:00Z"
+}
